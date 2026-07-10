@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Wudbwoy
+- 👋 Hi, I’m Jeffrey
 - 👀 I’m interested in coding, obviously
 - 🌱 I’m currently learning html, css, js, python and c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me wud.j_ on instagram
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I play chess
 
 <!---
 Wudbwoy/Wudbwoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
