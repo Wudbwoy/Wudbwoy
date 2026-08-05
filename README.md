@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeffrey
 - 👀 I’m interested in coding, obviously
-- 🌱 I’m currently learning html, css, js, python and c++
+- 🌱 I’m currently learning python and Js
 - 💞️ I’m looking to collaborate on making software with others(especially games)
 - 📫 How to reach me wud.j_ on instagram
 - 😄 Pronouns: He/Him/His
